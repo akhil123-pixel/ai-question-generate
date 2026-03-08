@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Question Generator with Resume Skill Extraction",
+  "description": "Upload your resume to extract skills and generate AI-powered interview questions tailored to your experience and target difficulty.",
+  "requestFramePermissions": []
+}
